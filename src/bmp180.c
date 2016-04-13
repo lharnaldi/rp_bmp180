@@ -1,9 +1,16 @@
-/*
- * @author 	Alexander Rüedlinger <a.rueedlinger@gmail.com>
- * @date 	26.02.2015
+/**
+ * $Id: $
  *
- * A C driver for the sensor BMP180.
- *  
+ * @brief A C driver for BMP180 sesor
+ *
+ * @Author L. Horacio Arnaldi <lharnaldi@gmail.com>
+ * @date  01.04.2016
+ *
+ * (c) LabDPR  http://labdpr.cab.cnea.gov.ar
+ *
+ * This part of code is written in C programming language.
+ * Please visit http://en.wikipedia.org/wiki/C_(programming_language)
+ * for more details on the language used herein.
  */
  
 #ifndef __BMP180__
